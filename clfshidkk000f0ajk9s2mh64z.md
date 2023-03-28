@@ -3,6 +3,7 @@ title: "Databases"
 datePublished: Tue Mar 28 2023 16:40:44 GMT+0000 (Coordinated Universal Time)
 cuid: clfshidkk000f0ajk9s2mh64z
 slug: databases
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680021934283/fdb82ccd-b15a-4acd-ab6b-24110bc393b7.png
 tags: aws, dynamodb, databases, redshift, aws-rds
 
 ---
